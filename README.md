@@ -17,7 +17,7 @@ The `dpapi` package provides a simple interface for encrypting and decrypting da
 ## Installation
 
 ```sh
-go get -u <your-repo-path>/dpapi
+go get -u github.com/marcgauthier/dpapi
 ```
 
 ## Initialization
