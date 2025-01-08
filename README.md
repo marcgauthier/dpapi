@@ -130,7 +130,7 @@ import (
 	"fmt"
 	"log"
 
-	"example/dpapi" // Replace with the actual import path of your dpapi package
+	"github.com/marcgauthier/dpapi" // Replace with the actual import path of your dpapi package
 )
 
 func main() {
@@ -163,7 +163,7 @@ import (
 	"log"
 	"os"
 
-	"example/dpapi" // Replace with the actual import path of your dpapi package
+	"github.com/marcgauthier/dpapi" // Replace with the actual import path of your dpapi package
 )
 
 func main() {
